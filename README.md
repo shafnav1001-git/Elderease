@@ -12,13 +12,3 @@ A mobile app to help families manage care for elderly relatives. Built as a pers
 - Flutter (Dart)
 - Firebase (Firestore, Auth, Cloud Messaging)
 
-## Getting Started
-
-```bash
-git clone https://github.com/your-username/eldercare.git
-cd eldercare
-flutter pub get
-flutter run
-```
-
-> Add your `google-services.json` (Android) or `GoogleService-Info.plist` (iOS) from your Firebase project before running.
